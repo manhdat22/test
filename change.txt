@@ -1,5 +1,9 @@
 
+
 Bạn có thể thấy nó đã được staged vì nó đã nằm trong danh sách "Các thay đổi chuẩn bị commit". Nếu bạn commit tại thời điểm này, phiên bản của tập tin ở thời điểm bạn chạy git add sẽ được thêm vào lịch sử commit. Nhớ lại khi bạn chạy git init lúc trước, sau đó là lệnh git add (files) - đó chính là bắt đầu theo dõi các tập tin trong thư mục của bạn. Lệnh git add có thể dùng cho một tập tin hoặc một thư mục; nếu là thư mục, nó sẽ thêm tất cả tập tin trong thư mục đó cũng như các thư mục con.
 --
 Hello framgia, this is dev 2. And i'm doin' this alone. f*ck ya mate
+
+Hello framgia, this is dev 1. And also team 1
+
 
